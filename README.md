@@ -1,4 +1,4 @@
-# Personal Expense Tracker 📇🗃️
+# Personal Expense Tracker 📇
 
 A clean, simple, and fully functional personal expense manager built with pure Python.
 You can think of it as your tiny private banker who never sleeps and completely free!😁✌️
@@ -63,4 +63,5 @@ License
 MIT © Kosari Zarei
 
 If you like the project, give it a star so I get motivated to build more! ✨
+
 
